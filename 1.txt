@@ -1,4 +1,4 @@
 hello
 first commit
 creating a new branch
-creating a new branch is quick & simple
+creating anew branch is quick and simple
